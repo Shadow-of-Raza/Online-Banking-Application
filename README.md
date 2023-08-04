@@ -5,9 +5,9 @@
 
 ## Description:
    Hello Friends, 
-Here i am creating one simple console baseed OnlineBankingApplication! in Core Java with JDBC and MySQL Integration. In this project i provided so many feture like:
+Here i am creating one simple console based OnlineBankingApplication! in Core Java with JDBC and MySQL Integration. In this project i provided so many feature like:
 1. Create User Account:
-   a.Add your Personal details and Bank Details and email id as a user_id and password.
+   a. Add your Personal details and Bank Details and email id as a user_id and password.
 After Create User Account...
 2. Login:
    a.  Using your email id and password you can perform this task.
@@ -17,7 +17,7 @@ Both will go from Home page and perform following tasks:
 ### Key options:
 1. Check Balance.
 2. Deposit money.
-3. Withdrow money.
+3. Withdraw money.
 4. Fund transfer.
 5. Check user profile.
 6. Update profile.
@@ -27,16 +27,16 @@ Both will go from Home page and perform following tasks:
 
 ### Technologies Used:
 
-1. Core Java: OOPS concepts like Encaptulation, Simple control ststements like loops, switch-ace, if-else etc...
+1. Core Java: OOPS concepts like Encapsulation, Simple control statements like loops, switch-ace, if-else etc...
 
-2. JDBC: Driver Class for Connection, DriverManager for get connection, PreparedStatement, ResultSet, Connection etc...
+2. JDBC: Driver Class for Connection, DriverManager for getConnection ();, PreparedStatement, ResultSet, Connection etc...
 
 3. MySQL: All CRUD operation -{CREATE, SELECT, UPDATE, DELETE}, 
 
 # Steps to create...
 
-### 1. Create a mavan project.
-### 2. Add dependencyes in pom.xml (go to project files here you get the pom.xml file)...
+### 1. Create a maven project.
+### 2. Add dependencies in pom.xml (go to project files here you get the pom.xml file)...
 ### 3. Create 3 classes..
 1. DataBaseConnection.java
 2. Operation.java
@@ -45,7 +45,9 @@ Both will go from Home page and perform following tasks:
 BankApplication (Database Name):
 #### Tables: 
 
-##### Profile: create table profile          
+##### Profile: create table profile 
+![image](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/ac1f1dd4-82be-4af8-aa34-b08f19c9bb7c)
+        
 ![Screenshot 2023-08-04 at 3 40 56 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/37a4f9dc-0a5f-4fa1-9f08-37bf199d6e26)
 ![Screenshot 2023-08-04 at 3 41 41 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/465c082a-4f7b-4c65-a897-84077a9116dc)
 ##### Transection: create table Transection
