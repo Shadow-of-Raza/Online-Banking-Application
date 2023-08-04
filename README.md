@@ -46,8 +46,6 @@ BankApplication (Database Name):
 #### Tables: 
 
 ##### Profile: create table profile 
-![image](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/ac1f1dd4-82be-4af8-aa34-b08f19c9bb7c)
-        
 ![Screenshot 2023-08-04 at 3 40 56 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/37a4f9dc-0a5f-4fa1-9f08-37bf199d6e26)
 ![Screenshot 2023-08-04 at 3 41 41 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/465c082a-4f7b-4c65-a897-84077a9116dc)
 ##### Transection: create table Transection
