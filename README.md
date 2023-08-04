@@ -1,7 +1,7 @@
 # Online-Banking-Application
 
 Title:
-Simple Console-based OnlineBankingApplication in Core Java with JDBC and MySQL Integration
+Simple Console-based OnlineBankingApplication in Core Java with JDBC and MySQL Integration...
 
 Description:
 Hello Friends, 
