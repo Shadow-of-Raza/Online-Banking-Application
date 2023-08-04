@@ -1,10 +1,10 @@
 # Online-Banking-Application
 
-Title:
-Simple Console-based OnlineBankingApplication in Core Java with JDBC and MySQL Integration...
+## Title:
+   Simple Console-based OnlineBankingApplication in Core Java with JDBC and MySQL Integration...
 
-Description:
-Hello Friends, 
+## Description:
+   Hello Friends, 
 Here i am creating one simple console baseed OnlineBankingApplication! in Core Java with JDBC and MySQL Integration. In this project i provided so many feture like:
 1. Create User Account:
    a.Add your Personal details and Bank Details and email id as a user_id and password.
@@ -14,7 +14,7 @@ After Create User Account...
 After login...
 Both will go from Home page and perform following tasks:
 
-Key options:
+### Key options:
 1. Check Balance.
 2. Deposit money.
 3. Withdrow money.
@@ -25,42 +25,44 @@ Key options:
 8. Help & Contact us.
 9. Logout...
 
-Technologies Used:
+### Technologies Used:
 
 1. Core Java: OOPS concepts like Encaptulation, Simple control ststements like loops, switch-ace, if-else etc...
 
 2. JDBC: Driver Class for Connection, DriverManager for get connection, PreparedStatement, ResultSet, Connection etc...
 
 3. MySQL: All CRUD operation -{CREATE, SELECT, UPDATE, DELETE}, 
-How to Use:
 
-## 1. Create a mavan project.
-## 2. Add dependencyes in pom.xml (go to project files here you get the pom.xml file)...
-## 3. Create 3 classes..
+# Steps to create...
+
+### 1. Create a mavan project.
+### 2. Add dependencyes in pom.xml (go to project files here you get the pom.xml file)...
+### 3. Create 3 classes..
 1. DataBaseConnection.java
 2. Operation.java
 3. Main.java
-## 4. Data Base setup:
+### 4. Data Base setup:
 BankApplication (Database Name):
-### Tables: 
+#### Tables: 
 
-#### Profile: create table profile          
+##### Profile: create table profile          
 ![Screenshot 2023-08-04 at 3 40 56 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/37a4f9dc-0a5f-4fa1-9f08-37bf199d6e26)
 ![Screenshot 2023-08-04 at 3 41 41 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/465c082a-4f7b-4c65-a897-84077a9116dc)
-#### Transection: create table Transection
+##### Transection: create table Transection
 ![Screenshot 2023-08-04 at 3 41 09 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/ac5df680-4011-4550-af24-6fb333bcf18e)
 ![Screenshot 2023-08-04 at 3 42 01 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/a9814678-6acd-4d76-88ab-a988b62df395)        
 
-## 5. Create the connection in DataBaseConnection.java...
-## 6. Start writing you code from Main.java (go to my Main.java)....
-## 7. Now only decleared all the methods related to your tasks...like check balance, Deposit money, Withdraw money, and all...
-## 8. Now, Do the implementation each methods one by one. Once you completed you method logic the first you need to test the operation and then go  to the other method implementation.
-## 9. Once all the operation is done Move to the testing of the whole project. Whether your project working properly or not and generating required output...
-# Note: 
+### 5. Create the connection in DataBaseConnection.java...
+### 6. Start writing you code from Main.java (go to my Main.java)....
+### 7. Now only decleared all the methods related to your tasks...like check balance, Deposit money, Withdraw money, and all...
+### 8. Now, Do the implementation each methods one by one. Once you completed you method logic the first you need to test the operation and then go  to the other method implementation.
+### 9. Once all the operation is done Move to the testing of the whole project. Whether your project working properly or not and generating required output...
+## Note: 
 Every software need daily update but first you need to complete basic structure of the project. Once it is completed then after you can go for further implementation....
 
 # Screenshots:
 ![Screenshot 2023-08-04 at 3 33 16 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/95579ec6-1d12-4bad-b47d-1c4c2ad10f1f)
+Note: We cannot predect the error massage format...
 ![Screenshot 2023-08-04 at 3 32 47 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/3186d605-db47-47e0-996d-10cd7d159369)
 ![Screenshot 2023-08-04 at 3 55 35 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/9255076d-2479-4c27-b044-63cfc0c4ee21)
 ![Screenshot 2023-08-04 at 4 03 23 PM](https://github.com/Shadow-of-Raza/Online-Banking-Application/assets/116309099/72de5875-91b6-4726-a70f-bab209e99c40)
